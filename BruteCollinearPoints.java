@@ -121,8 +121,3 @@ public class BruteCollinearPoints {
     }
 
 }
-© 2022GitHub,Inc.
-        Terms
-        Privacy
-        Security
-        Status
